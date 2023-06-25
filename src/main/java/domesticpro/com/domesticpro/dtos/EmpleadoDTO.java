@@ -92,4 +92,4 @@ public class EmpleadoDTO {
     //public void setPicture(byte[] picture) {
     //    this.picture = picture;
     // }
-} askjhdskjahdkjsahdkjsahdkjhaskdjhaskjhdkasjhdkjashdkjashdjkashdkjashdkjashdkjahsdkjhaskdjhaskjdhasjhdkjashdjkahsdkjhaskjdhakjdfykasbfkjasydklasndklajsudalsdkmnralskcualskjmdilsuclaskrlaksucjlaksmndfiolxacuvlaksenfokxahljksrnfscjkhvgscofnweñaljkfzxoipflkwenfjkdhflksadnfskjdhfkljsdnrfksdjhsldkrnfsdovihjselkñfmnsdovishdñlmspovjsd´l,mgslñkbnouiasdho´swmñfgjspiopsmgsñkjpojg,s{gñssdfsñdjfpsñoefl{s.dm,cvñopsdm,gsñlmfgñskldjf.s,dfmslñkdjflksdnmflksdjflksdjflksdjflksjdlfkvjsdpñ{gjk{ñsgk{daflñkg{ñalkñ{ldkfg{ñlsdkfg{ñlksd{gñlksdf{ñlgk{sñldkfg{lñsdfkg{lñsdfkg{ñlsdfkg{ñlsdfkg{ñlsdfkg{ñlsdkfg{ñlksdfg{lñksd{flñkgs{ñdlfkg{ñlsdkfg{ñlksdfg{ñlksdfg{ñlksd{ñflgk{ñlsdkfg{ñlksdf{gñlk{lñsdkfg{ñlskdfg{ñlskdfg{ñlksdfg{ñlksdfg{ñlksdfg{lñksdfg{ñlksdf{gñlksdf{gñlks{ñdlffkg{ñsldfkg{ñlsdkfg{ñlksdf{lñgksdf{ñgl}ksdf{ñlgk{ñlksdfg{ñlks{dñflgk{ñlksdfg{ñlsdfkg{lñsdkfg{ñlksdfg{ñlksdfg{ñlksdfg{ñlsdfkg{ñlksdfg{ñlksdfg{ñlksdfg{ñlksdfg{ñlksdfg{ñlksdfg{ñlksdfg{ñlksdfg{ñlsdfkg{ñsdflkg{sdñlfkg{sdñflkg
+}
